@@ -38,7 +38,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/LavenyGithub/LavenyGithub/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/LavenyGithub/LavenyGithub/blob/main/snake.svg" alt="Snake animation" />
 
 ###
 
