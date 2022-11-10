@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Laveny... and I'm a Teenager ..., from Canada ....</h2>
+<h2 align="left">Hi 👋! My name is Laveny... and I'm a Teenager ..., from Canada....</h2>
 
 ###
 
@@ -38,10 +38,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/LavenyGithub/LavenyGithub/blob/main/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="left">Hello World! Im Laveny, also known as Leon. Currently studying 6th grade while aging 13.  <br>I love Web3, Firefox/Brave, Discord and Youtube</p>
 
 ###
@@ -57,14 +53,6 @@
 ###
 
 <p align="left">Discord Multipurpose: https://foxycord.tk/<br><br>Minimal Images/Wallpapers:<br>https://minimalistic-wallpaper.demolab.com/<br><br>Code Editor:<br>https://code.visualstudio.com/<br><br>Free Windows Software:<br>https://getintopc.com</p>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31e46gmvrwlzmqst63tpx6ce6vjm)">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
 
