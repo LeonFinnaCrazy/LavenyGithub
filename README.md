@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">Hello World! Im Laveny, also known as Leon. Currently studying 6th grade while aging 13.  <br>I love Web3, Firefox/Brave, Discord and Youtube</p>
+<p align="left">Hello World! Im Laveny, also known as Leon. Currently studying 7th grade while aging 14.  <br>I love Web3, Firefox/Brave, Discord and Youtube</p>
 
 ###
 
