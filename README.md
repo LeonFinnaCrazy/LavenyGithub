@@ -48,16 +48,5 @@
 
 <br clear="both">
 
-<p align="center">▀▀█▀▀ █▀▀█ █▀▀█ █░░ █▀▀ 　 ▀█▀ 　 ▒█░▒█ █▀▀ █▀▀ <br>░▒█░░ █░░█ █░░█ █░░ ▀▀█ 　 ▒█░ 　 ▒█░▒█ ▀▀█ █▀▀ <br>░▒█░░ ▀▀▀▀ ▀▀▀▀ ▀▀▀ ▀▀▀ 　 ▄█▄ 　 ░▀▄▄▀ ▀▀▀ ▀▀▀</p>
-
-###
-
-<p align="left">Discord Multipurpose: https://foxycord.tk/<br><br>Minimal Images/Wallpapers:<br>https://minimalistic-wallpaper.demolab.com/<br><br>Code Editor:<br>https://code.visualstudio.com/<br><br>Free Windows Software:<br>https://getintopc.com</p>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=LavenyGithub.LavenyGithub&right_color=indianred&left_text=People who found my profile"  />
-</div>
 
 ###
